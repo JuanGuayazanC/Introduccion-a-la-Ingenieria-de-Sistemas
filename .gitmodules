@@ -1,0 +1,8 @@
+[submodule "Tareas/Impacto-tecnologico-INSI"]
+	path = Tareas/Impacto-tecnologico-INSI
+	url = https://github.com/JuanGuayazanC/Impacto-tecnologico-INSI.git
+	branch = main
+[submodule "Proyectos/Sarase-INSI"]
+	path = Proyectos/Sarase-INSI
+	url = https://github.com/JuanGuayazanC/Sarase-INSI.git
+	branch = main
