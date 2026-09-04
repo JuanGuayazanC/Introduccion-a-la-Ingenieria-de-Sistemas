@@ -1,6 +1,6 @@
 # Introducción a la Ingeniería de Sistemas (INSI)
 
-Repositorio general del curso Introducción a la Ingeniería de Sistemas, que agrupa —mediante submódulos de git— las actividades del curso.
+Agrupa las actividades del curso.
 
 Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
